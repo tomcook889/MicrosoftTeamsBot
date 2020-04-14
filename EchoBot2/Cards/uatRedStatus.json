@@ -1,0 +1,49 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "text": "UAT Red Environment Status",
+          "weight": "bolder",
+          "size": "large"
+        }
+      ]
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Pi"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Charles River"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "items": [
+            {
+              "type": "Image",
+              "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAIAAABvSEP3AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH4wcRDjkQHyyfsgAAAcBJREFUOMullM8rBHEYh58ZE9pyUNIiiZyUWpGD2+YgWY4cHHDwHygnJWcHW/4JF47ippTaw8bFtkpKailkh9R87fRxmLXr52h2n76Haab3mXnf3s9YkviM65LNcnzM6SlXV9zf8/KCMfg+tk1zM+3tDAyQTJJK0dNTrpIkY+S6yuW0va3xcbW2yrIEYcdxlEhof1+SJPT6qpUVjY6qs/Ofyp9ndlalkiSHUomTEzIZaiCRoKEBsLGs4KoWdnY4OgLsGusDzs7Y3MTz6rM0NjI2RlNTfZa+Pubm6u4on2drC9+3kfD9Gi0SuRzGIM9TOq3BwcjLAhoZ0cGBJILlUz6v4eHIltXVj92tsLurWCyaZWZGb2+SnGqTqRTLy6TT35vv6GB6GsuiUODujocHnp/xPFpamJzEcYIBfeLxUfPz31+4tlZ+aoyKRd3c6Pxc2awuL4MQfe0o4PZWU1NfLBsb+g9+uXdxoaGhqiWZlOtGt0g6PFRbW9kSi1X+IxEtktbXq5+zsFAZQURLoVDdoP5+XV+HWP7OUTzO4iKWBfD0RLEYkoTQNE5M0NUF0NtLPB4eqL8xRktL6u7W3l74dN8BrYCQW8Hvh0UAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTktMDctMTdUMTQ6NTY6NTUrMDA6MDDfVNNUAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5LTA3LTE3VDE0OjU2OjU1KzAwOjAwrglr6AAAAABJRU5ErkJggg=="
+            },
+            {
+              "type": "Image",
+              "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAIAAABvSEP3AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH4wcRDjkQHyyfsgAAAcBJREFUOMullM8rBHEYh58ZE9pyUNIiiZyUWpGD2+YgWY4cHHDwHygnJWcHW/4JF47ippTaw8bFtkpKailkh9R87fRxmLXr52h2n76Haab3mXnf3s9YkviM65LNcnzM6SlXV9zf8/KCMfg+tk1zM+3tDAyQTJJK0dNTrpIkY+S6yuW0va3xcbW2yrIEYcdxlEhof1+SJPT6qpUVjY6qs/Ofyp9ndlalkiSHUomTEzIZaiCRoKEBsLGs4KoWdnY4OgLsGusDzs7Y3MTz6rM0NjI2RlNTfZa+Pubm6u4on2drC9+3kfD9Gi0SuRzGIM9TOq3BwcjLAhoZ0cGBJILlUz6v4eHIltXVj92tsLurWCyaZWZGb2+SnGqTqRTLy6TT35vv6GB6GsuiUODujocHnp/xPFpamJzEcYIBfeLxUfPz31+4tlZ+aoyKRd3c6Pxc2awuL4MQfe0o4PZWU1NfLBsb+g9+uXdxoaGhqiWZlOtGt0g6PFRbW9kSi1X+IxEtktbXq5+zsFAZQURLoVDdoP5+XV+HWP7OUTzO4iKWBfD0RLEYkoTQNE5M0NUF0NtLPB4eqL8xRktL6u7W3l74dN8BrYCQW8Hvh0UAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTktMDctMTdUMTQ6NTY6NTUrMDA6MDDfVNNUAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5LTA3LTE3VDE0OjU2OjU1KzAwOjAwrglr6AAAAABJRU5ErkJggg=="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

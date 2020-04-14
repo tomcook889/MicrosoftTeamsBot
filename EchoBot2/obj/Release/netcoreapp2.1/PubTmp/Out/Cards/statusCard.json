@@ -1,0 +1,44 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Working status today",
+      "horizontalAlignment": "Center"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Please select from the options below to indicate your status in the office today.",
+      "wrap": true
+    },
+    {
+      "type": "Input.ChoiceSet",
+      "id": "SingleSelectVal",
+      "style": "expanded",
+      "value": "1",
+      "choices": [
+        {
+          "title": "Working",
+          "value": "Working"
+        },
+        {
+          "title": "Off Sick",
+          "value": "Off Sick"
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit",
+      "data": {
+        "id": "workingStatus"
+      }
+    }
+  ]
+}

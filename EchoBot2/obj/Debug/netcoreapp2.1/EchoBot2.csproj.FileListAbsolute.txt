@@ -1,0 +1,94 @@
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.deps.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.dev.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.dll
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csprojAssemblyReference.cache
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cache
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cs
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfoInputs.cache
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfo.cs
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorTargetAssemblyInfo.cache
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.dll
+C:\code\EchoBot2\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\Cards\fallbackCard.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\Cards\mainCard.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatBlueStatus.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatRedStatus.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\code\EchoBot2\EchoBot2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\fallbackCard.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\mainCard.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatBlueStatus.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatRedStatus.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.deps.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.dev.json
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.dll
+G:\IT Development\Innovation\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.pdb
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csprojAssemblyReference.cache
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cache
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cs
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfoInputs.cache
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfo.cs
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorTargetAssemblyInfo.cache
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.dll
+G:\IT Development\Innovation\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\fallbackCard.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\mainCard.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatBlueStatus.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatRedStatus.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.deps.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.dev.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.dll
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cache
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cs
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfoInputs.cache
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfo.cs
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorTargetAssemblyInfo.cache
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.dll
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.genruntimeconfig.cache
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csprojAssemblyReference.cache
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\statusCard.json
+C:\Users\tcook\source\repos\SampleBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csproj.CoreCompileInputs.cache
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\fallbackCard.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\mainCard.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\statusCard.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatBlueStatus.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\Cards\uatRedStatus.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.deps.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.runtimeconfig.dev.json
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.dll
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\bin\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csprojAssemblyReference.cache
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.csproj.CoreCompileInputs.cache
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cache
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorAssemblyInfo.cs
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfoInputs.cache
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.AssemblyInfo.cs
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.RazorTargetAssemblyInfo.cache
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.dll
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.pdb
+C:\Users\tcook\source\repos\WorkingBot\EchoBot2\obj\Debug\netcoreapp2.1\EchoBot2.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "text": "Sorry, I cannot help with this query. Would you like to raise a ticket with Service Desk?",
+          "wrap": "true"
+        }
+      ]
+    },
+    {
+      "type": "ActionSet",
+      "actions": [
+        {
+          "type": "Action.ShowCard",
+          "title": "Open a ticket",
+          "card": {
+            "type": "AdaptiveCard",
+            "body": [
+              {
+                "type": "TextBlock",
+                "text": "What application does this relate to?"
+              },
+              {
+                "type": "Input.ChoiceSet",
+                "id": "system",
+                "style": "compact",
+                "isMultiSelect": false,
+                "value": "Charles River",
+                "choices": [
+                  {
+                    "title": "Charles River",
+                    "value": "Charles River"
+                  },
+                  {
+                    "title": "PORT",
+                    "value": "PORT"
+                  },
+                  {
+                    "title": "SCD",
+                    "value": "SCD"
+                  }
+                ]
+              },
+              {
+                "type": "Input.Text",
+                "id": "description",
+                "isMultiline": "true",
+                "value": "Please enter the description of the issue"
+              }
+            ],
+            "actions": [
+              {
+                "type": "Action.Submit",
+                "title": "OK"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

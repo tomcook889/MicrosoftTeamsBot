@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoBot2", "EchoBot2\EchoBot2.csproj", "{4C880A14-ACF3-49BE-99F0-C829D4D33457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C880A14-ACF3-49BE-99F0-C829D4D33457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C880A14-ACF3-49BE-99F0-C829D4D33457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C880A14-ACF3-49BE-99F0-C829D4D33457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C880A14-ACF3-49BE-99F0-C829D4D33457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B706A860-7186-4B27-97E4-D7F6D3DDC7F3}
+	EndGlobalSection
+EndGlobal
