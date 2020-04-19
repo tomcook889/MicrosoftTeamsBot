@@ -1,0 +1,24 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Working Status Manager",
+      "horizontalAlignment": "Center",
+      "id":  "messageAll"
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Request Status",
+      "data": {
+        "id": "messageAll"
+      }
+    }
+  ]
+}
