@@ -11,8 +11,7 @@ namespace Teams.Plugins.Chatbot.Infra.Database
     public class ChatbotDbContext : DbContext
     {
         public DbSet<User> Users { get; set; }
-        public DbSet<Question> Questions { get; set; }
-        public DbSet<AnsweredQuestion> AnsweredQuestions { get; set; }
+        public DbSet<WorkingStatus> WorkingStatuses { get; set; }
 
         public ChatbotDbContext(DbContextOptions<ChatbotDbContext> options)
             : base(options)
@@ -22,38 +21,7 @@ namespace Teams.Plugins.Chatbot.Infra.Database
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new UserConfig());
-            modelBuilder.ApplyConfiguration(new AnswerConfig());
-            modelBuilder.ApplyConfiguration(new AnsweredQuestionConfig());
-            modelBuilder.ApplyConfiguration(new QuestionConfig());
-
-            modelBuilder
-                .Entity<Question>()
-                .HasData(new[]
-                {
-                    new Question
-                    {
-                        Id = 1,
-                        Text = "Please select from the options below to indicate your status in the office today."
-                    }
-                });
-
-            modelBuilder
-                .Entity<Answer>()
-                .HasData(new[]
-                {
-                    new Answer 
-                    { 
-                        Id = 1, 
-                        QuestionId = 1, 
-                        Text = "Off Sick" 
-                    },
-                    new Answer 
-                    { 
-                        Id = 2, 
-                        QuestionId = 1, 
-                        Text = "Working" 
-                    }
-                });
+            modelBuilder.ApplyConfiguration(new WorkingStatusConfig());
         }
 
         public override int SaveChanges()

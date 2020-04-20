@@ -21,10 +21,11 @@ namespace Teams.Plugins.Chatbot.Core.Models
         //    // For EF
         //}
 
+
         public string UserPrincipalName { get; set; }
 
         public string Email { get; set; }
+        public List<WorkingStatus> WorkingStatuses { get; set; }
 
-        public List<AnsweredQuestion> AnsweredQuestions { get; set; }
     }
 }

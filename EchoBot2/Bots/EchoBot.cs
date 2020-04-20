@@ -17,7 +17,8 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Teams.Plugins.Chatbot.Infra.Database;
 using Teams.Plugins.Chatbot.Core.Models;
-
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace EchoBot2.Bots
 {
@@ -53,15 +54,26 @@ namespace EchoBot2.Bots
                         using (var context = _context)
                         {
                             var senderId = turnContext.Activity.From.Id;
-                            var memberInfo = TeamsInfo.GetTeamMemberAsync(turnContext, senderId).Result;
+                            var memberInfo = TeamsInfo.GetMemberAsync(turnContext, senderId).Result;
 
-                            var currentUser = new User(memberInfo.UserPrincipalName, memberInfo.Email);
+                            var currentUser = await context.Users
+                                .Where(x => x.Email == memberInfo.Email)
+                                .FirstOrDefaultAsync();
 
+                            if (currentUser != null)
+                            {
+                                await turnContext.SendActivityAsync(MessageFactory.Text($"User already exists."), cancellationToken);
+                            }
+                            else
+                            {
+                                var newUser = new User(memberInfo.UserPrincipalName, memberInfo.Email);
 
-                            context.Add(currentUser);
-                            context.SaveChanges();
+                                context.Add(newUser);
+                                context.SaveChanges();
+                            }
+
+                            await turnContext.SendActivityAsync(MessageFactory.Text($"Thanks, your status has been recorded."), cancellationToken);
                         };
-                            await turnContext.SendActivityAsync(MessageFactory.Text($"Thanks, your status has been recorded"), cancellationToken);
                         break;
 
                     default:

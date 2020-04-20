@@ -59,7 +59,7 @@ namespace EchoBot2
 
             services.AddDbContext<ChatbotDbContext>(options => options.UseSqlServer(connectionString));
             services.AddTransient<IUserRepository, UserRepository>();
-            services.AddTransient<IQuestionRepository, QuestionRepository>();
+            services.AddTransient<IWorkingStatusRepository, WorkingStatusRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
